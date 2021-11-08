@@ -3,6 +3,8 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
+///@autor: Italo Silva
+
 import entites.product;
 
 public class Program {
